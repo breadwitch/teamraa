@@ -16,7 +16,7 @@ Support for other browsers not mandatory at this point in time.
 
 ### Requirements:
 
-1. Website should contain a favicon (using the `assets/icon_bowarrow.png` image);
+<!-- 1. Website should contain a favicon (using the `assets/icon_bowarrow.png` image); -->
 2. The website should contain at least 3 pages; A 'Homepage', a 'Contact Us' page, and an attraction information page.
 3. Homepage should contain 
     - A hero element, showcasing Nottingham Castle. Interacting with this should navigate me to the attraction information page for the castle
